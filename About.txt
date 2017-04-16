@@ -1,0 +1,21 @@
+THE ENIGMA MACHINE
+
+The Enigma machines were a series of electro-mechanical rotor cipher machines developed and used in the early- to mid-twentieth century to protect commercial, diplomatic and military communication. Enigma was invented by the German engineer Arthur Scherbius at the end of World War I.[1] Early models were used commercially from the early 1920s, and adopted by military and government services of several countries, most notably Nazi Germany before and during World War II.[2] Several different Enigma models were produced, but the German military models are the most commonly recognised. However, Japanese and Italian models have been used.
+
+HISTORY
+
+The Enigma family included multiple designs. The earliest were commercial models dating from the early 1920s. Starting in the mid-1920s, the German military began to use Enigma, making a number of security-related changes. Various nations either adopted or adapted the design for their own cipher machines.
+
+CRYPTOANALYSIS OF ENIGMA
+
+Cryptanalysis of the Enigma enabled the western Allies in World War II to read substantial amounts of secret Morse-coded radio communications of the Axis powers that had been enciphered using Enigma machines. This yielded military intelligence which, along with that from other decrypted Axis radio and teleprinter transmissions, was given the codename Ultra. This was considered by western Supreme Allied Commander Dwight D. Eisenhower to have been "decisive" to the Allied victory.[1]
+
+The Enigma machines were a family of portable cipher machines with rotor scramblers.[2] Good operating procedures, properly enforced, would have made the cipher unbreakable.[3][4] However, most of the German armed and secret services and civilian agencies that used Enigma employed poor procedures and it was these poor operating procedures that allowed the Enigma machines to be reverse engineered and the ciphers to be read.
+
+The German plugboard-equipped Enigma became Nazi Germany's principal crypto-system. It was broken by the Polish General Staff's Cipher Bureau in December 1932—with the aid of French-supplied intelligence material that had been obtained from a German spy. Shortly before the outbreak of World War II, the Polish Cipher Bureau initiated the French and British into its Enigma-breaking techniques and technology at a conference held in Warsaw.
+
+From this beginning, the British Government Code and Cypher School (GC&CS) at Bletchley Park built up an extensive cryptanalytic facility. Initially, the decryption was mainly of Luftwaffe and a few Army messages, as the Kriegsmarine (German navy) employed much more secure procedures for using Enigma. Alan Turing, a Cambridge University mathematician and logician, provided much of the original thinking that led to the design of the cryptanalytical Bombe machines and the eventual breaking of naval Enigma. However, the German Navy introduced an Enigma version with a fourth rotor for its U-boats resulting in a prolonged period when these messages could not be decrypted. With the capture of relevant cipher keys and the use of much faster US Navy Bombes, regular, rapid reading of U-boat messages resumed.
+
+
+
+SOURCE: Wikipedia
